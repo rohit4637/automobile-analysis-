@@ -13,5 +13,5 @@ Auto Analytics is a ReactJS based web application with a Flask based backend . I
 * NumPy: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 * Flask: Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier.
 * Apexcharts: ApexCharts is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
-
+* React Router V6: React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL.
   
