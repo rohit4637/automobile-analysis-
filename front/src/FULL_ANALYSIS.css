@@ -1,0 +1,166 @@
+.full{
+      display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+      margin-top: 30px;
+      margin-right: 30px;
+      margin-left:30px;
+      border: 2px solid #e3b448;
+      border-radius: 20px;
+      background-color:#e3b448;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 10px;
+      font-family: "Courier New", monospace, Verdana, sans-serif;
+  }
+
+.head1{
+  display: flex;
+  /* padding-left: 10px; */
+  margin-top: 40px;
+  margin-right: 80px;
+  margin-left: 30px;
+ 
+  border-bottom: 2px solid rgb(37, 67, 92);
+  border-left: 2px solid rgb(37, 67, 92);
+  border-radius: 10px;
+  font-family: "Courier New", monospace, Verdana, sans-serif;
+  
+}
+
+.grp1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left:50px;
+  border: 2px solid rgb(0, 255, 106);
+  border-radius: 20px;
+  background-color: rgb(239, 255, 245);
+  /* background-color: blueviolet; */
+}
+.make-count{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+  width: 1400px;
+}
+
+.fuel_type{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 350px;
+  width: 1400px;
+}
+.bar_displacement{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 400px;
+width: 1400px;
+}
+.line-mileage{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  
+width: 1400px;
+}
+.make_avg_price{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+.cartype_avg_price{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+.fuel_avg_price{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+
+}
+.Seating_avg_price{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+.bar_make_avg_kerb{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+.make_mod_mileage{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+
+.fuel_avg_mileage{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+
+ /* .prop_cartype{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 1000px;
+  width: 1200px;
+}  */
+
+.inference1{
+  border-radius: 15px 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  background-color: #eeca69;
+  margin-top: 10px;
+  margin-right: 80px;
+  margin-left: 30px;
+  margin-bottom: 70px;
+
+}
+.inference1:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2);
+}
+

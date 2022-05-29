@@ -1,0 +1,94 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.make_exp {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    height:60px;
+    background-color: #66b369;
+    border-radius: 10px;
+  }
+  .make_exp:hover {
+    box-shadow: 0 18px 24px 0 rgba(0,0,0,0.2);
+  }
+
+  .make_chp {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    height:60px;
+    background-color: #66b369;
+    border-radius: 10px;
+  }
+  .make_chp:hover {
+    box-shadow: 0 18px 24px 0 rgba(0,0,0,0.2);
+  }
+  .two{
+      height:450px;
+      width: 450px;
+  }
+  .one{
+    height:450px;
+    width: 450px;
+  }
+  .three{
+    height:450px;
+    width: 450px; 
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+
+
+  .common_feat {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    background-color: #f7675d;
+    border-radius: 10px;
+    height: 300px;
+
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+.common_feat:hover {
+    box-shadow:  0 18px 24px 0 rgba(0,0,0,0.2);
+  }
+  
+  .title1{
+    font-family: "Courier New", monospace, Verdana, sans-serif;
+    border-bottom: 2px solid rgb(37, 67, 92);
+  }
+  .car_company{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left:50px;
+    border: 2px solid #f3ca20;
+    border-radius: 20px;
+    background-color: #ffefad;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+  }
+.phead{
+    font-family: "Courier New", monospace, Verdana, sans-serif;
+    border-bottom: 2px solid rgb(37, 67, 92);
+} 
+
+  
